@@ -1,10 +1,3 @@
-<!--
-**amitpuri/amitpuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Twitter Badge](https://img.shields.io/twitter/follow/iamamitpuri?style=flat-square&label=Twitter&style=social&logoColor=white)](https://twitter.com/iamamitpuri)
-
-Here are some ideas to get you started:
--->
-
 # Open AGI Stack Semantic
 ## Intelligence into the products
 ### The Semantic Intelligence for enterprise AI
