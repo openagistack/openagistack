@@ -8,6 +8,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------
 [![Open AGI Stack Semantic Intelligence](assets/semantic-intelligence.png)](https://www.openagistack.com/articles/open-agi-stack-semantic-article/)
+Read [https://www.openagistack.com/articles/open-agi-stack-semantic-article/](https://www.openagistack.com/articles/open-agi-stack-semantic-article/)
 ------------------------------------------------------------------------------------------------------------------------------------
 [![Open AGI Stack Semantic Intelligence](assets/open-agi-stack-semantic-article.png)](https://www.openagistack.com/articles/open-agi-stack-semantic-article/)
 ------------------------------------------------------------------------------------------------------------------------------------
