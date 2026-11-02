@@ -1,6 +1,6 @@
-# Open AGI Stack Semantic
+# Open AGI Stack Semantic Intelligence
 ## Intelligence into the products
-### The Semantic Intelligence for enterprise AI
+### The Semantic Intelligence to AI Agents for enterprise AI
 
 ### From AI that sounds right to AI that understands. Give your AI the context your people already carry. 
 
