@@ -1,11 +1,13 @@
-# Open AGI Stack Semantic Intelligence
+# Open AGI Stack Semantic
 ## Intelligence into the products
-### The Semantic Intelligence to AI Agents for enterprise AI
+### The Semantic Intelligence for enterprise AI
 
 ### From AI that sounds right to AI that understands. Give your AI the context your people already carry. 
 
 ### Start with ready-made ontology starter packs, such as Enterprise Core and Healthcare Core, written in Turtle or RDF/XML. Then shape them into a semantic intelligence that is fully yours.
 
+------------------------------------------------------------------------------------------------------------------------------------
+[![Open AGI Stack Semantic Intelligence](assets/semantic-intelligence-semantics.png)](https://www.openagistack.com/articles/open-agi-stack-semantic-article/)
 ------------------------------------------------------------------------------------------------------------------------------------
 [![Open AGI Stack Semantic Intelligence](assets/semantic-intelligence-sensegraph.png)](https://www.openagistack.com/articles/open-agi-stack-semantic-article/)
 ------------------------------------------------------------------------------------------------------------------------------------
